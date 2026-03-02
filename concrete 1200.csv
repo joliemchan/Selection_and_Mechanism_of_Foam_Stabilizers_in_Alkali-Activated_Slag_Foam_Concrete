@@ -1,0 +1,13 @@
+Name,Density (kg/m3),Average σ (MPa),Average (mW/(m·K))
+SDS-1 with SDS without Dodecyl alcohol without PVA,1366.927083,6.49875,622.2333333
+SDS-2 with SDS with Dodecyl alcohol without PVA,1339.322917,7.76875,619.3666667
+SDS-3 with SDS without Dodecyl alcohol with PVA,1321.354167,5.887083333,566.0666667
+SDS-4 with SDS with Dodecyl alcohol with PVA,1229.322917,6.418541667,571.4666667
+C-1 with CTAB without Maltose without CMC,1280.208333,5.866458333,553.4333333
+C-2 with CTAB with Maltose without CMC,1211.979167,5.008958333,560.9666667
+C-3 with CTAB without Maltose with CMC,1273.958333,5.584791667,550
+C-4 with CTAB with Maltose with CMC,1306.770833,6.537916667,579
+N-1 with Triton without AOS without PVA,1243.229167,5.718541667,529.0666667
+N-2 with Triton with AOS without PVA,1213.541667,4.938541667,582.8333333
+N-3 with Triton without AOS with PVA,1403.802083,7.497916667,664.0333333
+N-4 with Triton with AOS with PVA,1255.989583,5.101041667,527.0666667
