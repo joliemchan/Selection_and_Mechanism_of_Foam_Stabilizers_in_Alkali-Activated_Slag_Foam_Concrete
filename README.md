@@ -1,4 +1,4 @@
-# Selection and Mechanism of Foam Stabilizers in Alkali-Activated Slag Foam Concrete
+# Selection and Mechanism of Foam Stabilizers in Alkali-Activated Slag Foam Concrete: TOPSIS combined with Entropy Method for Objective Weighting
 Simple, transparent Python implementation of **TOPSIS** using **pure entropy-based objective weights** (no subjective weighting, no AHP-style multipliers).
 
 **Designed exclusively** for ranking concrete mix designs presented in the paper  
