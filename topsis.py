@@ -112,7 +112,7 @@ if __name__ == "__main__":
         print(f"Benefit flags:       {args.benefits}\n")
 
         # Load data
-        df = pd.read_csv(args.file)
+        df = pd.read_csv(args.file, encoding='latin1')
         criteria_keys = df.columns[1:].tolist()
         names = df.iloc[:, 0].tolist()
         X = df.iloc[:, 1:].to_numpy(dtype=float)
