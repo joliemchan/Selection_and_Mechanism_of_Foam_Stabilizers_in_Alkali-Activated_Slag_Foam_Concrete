@@ -116,7 +116,7 @@ Cite at minimum Hwang & Yoon (1981) when publishing results obtained with this c
 
 MIT License
 
-Copyright (c) 2025 Ms. Joelle Wong
+Copyright (c) 2026 Ms. Joelle Wong
 
 Permission is hereby granted, free of charge, to any person obtaining a copy  
 of this software and associated documentation files (the "Software"), to deal  
